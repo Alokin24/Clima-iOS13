@@ -4,4 +4,3 @@
 #  Clima
 ![alt text](screenshot.png)
 
-![End Banner](Documentation/readme-end-banner.png)
